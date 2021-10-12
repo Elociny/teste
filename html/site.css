@@ -20,3 +20,8 @@
 span {
     color: rgb(255, 0, 0);
 }
+
+.imagem img {
+    height: 500px;
+    width: 500px;
+}
